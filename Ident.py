@@ -7,6 +7,7 @@ Created on Tue Sep  3 22:48:12 2019
 import matplotlib.pyplot as plt 
 import numpy as np
 
+
 def MQR(Y,U):
     #def MQR(Y,U,Ts):
     nu=2; ny=2;
